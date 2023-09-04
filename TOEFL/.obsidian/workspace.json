@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "2ea95376efbba51c",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfe0214f8250a0c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b3353b7ea18f2ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74782322901fa7e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5bc77a3290415aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Listening(已解决）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c45b6635e6267c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reading.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db770b13d95139f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Listening(已解决）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "024b66a6f3523892",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TOEIC/word and phrase.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "480ef5e78b00d89d",
+    "type": "split",
+    "children": [
+      {
+        "id": "bda37099d4e6a494",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "179b399101cecef3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5402880996a0182a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "379e53ddd07b834d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "30503b8edf4bfdbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd55efbfe0882034",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4115c60e2b4bbec0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Listening(已解决）.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "74a6e04b1a460b58",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Listening(已解决）.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5bd478d379c2501c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d97f51035a30bf8f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Listening(已解决）.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "db770b13d95139f3",
+  "lastOpenFiles": [
+    "TOEIC/word and phrase.md",
+    "Reading.md",
+    "Listening(已解决）.md",
+    "Speaking（算是已解决）.md",
+    "Writing.md",
+    "TOEIC"
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "0e50fb9b7abb56db",
+    "type": "split",
+    "children": [
+      {
+        "id": "828d8297b5ad4e19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0b116c8661032ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/computer system/vocabulary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d6dd24363ea1f28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/computer system/Chapter 1 A Tour of Computer Systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2bd141968e860f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPR life kit/Student loan repayment is resuming. Here's what you need to know.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c489d80b630cbbf3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff7c79254ae2d420",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7f799c387706c8c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bffe141d22cf5494",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7c1f6127b479c049",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f346398c32c95036",
+    "type": "split",
+    "children": [
+      {
+        "id": "52049682db046621",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93935e9f73ef55ac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NPR life kit/Student loan repayment is resuming. Here's what you need to know.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "41a286247401463a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "NPR life kit/Student loan repayment is resuming. Here's what you need to know.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b4e1c9e329411b9e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "42e3e986eb4a7f3d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "NPR life kit/Student loan repayment is resuming. Here's what you need to know.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a2bd141968e860f5",
+  "lastOpenFiles": [
+    "CS/computer system/Chapter 1 A Tour of Computer Systems.md",
+    "README.md",
+    "新建文本文档.txt",
+    "NPR life kit/Student loan repayment is resuming. Here's what you need to know.md",
+    "CS/basic/计算机教育缺失的一课-概览与shell.md",
+    "Untitled",
+    "CS/computer system/vocabulary.md"
+  ]
+}
