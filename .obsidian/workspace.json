@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c30408098b614edc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPR life kit/10 ways to have fun without breaking the bank.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPR life kit/Student loan repayment is resuming. Here's what you need to know.md",
+                "file": "NPR life kit/10 ways to have fun without breaking the bank.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPR life kit/Student loan repayment is resuming. Here's what you need to know.md",
+                "file": "NPR life kit/10 ways to have fun without breaking the bank.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPR life kit/Student loan repayment is resuming. Here's what you need to know.md"
+                "file": "NPR life kit/10 ways to have fun without breaking the bank.md"
               }
             }
           }
@@ -171,12 +183,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2bd141968e860f5",
+  "active": "c30408098b614edc",
   "lastOpenFiles": [
+    "NPR life kit/Student loan repayment is resuming. Here's what you need to know.md",
+    "NPR life kit/10 ways to have fun without breaking the bank.md",
     "CS/computer system/Chapter 1 A Tour of Computer Systems.md",
     "README.md",
     "新建文本文档.txt",
-    "NPR life kit/Student loan repayment is resuming. Here's what you need to know.md",
     "CS/basic/计算机教育缺失的一课-概览与shell.md",
     "Untitled",
     "CS/computer system/vocabulary.md"

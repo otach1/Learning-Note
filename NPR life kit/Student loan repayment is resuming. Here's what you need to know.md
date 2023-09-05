@@ -1,3 +1,4 @@
+[How to prepare for the return of student loan payments : Life Kit : NPR](https://www.npr.org/transcripts/1185472693)
 ## vocabulary
 So on September 1, the interest starts **accruing** again
 
