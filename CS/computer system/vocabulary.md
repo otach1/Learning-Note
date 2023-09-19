@@ -18,3 +18,4 @@ remedial
 
 forage
 by default
+funky

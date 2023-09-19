@@ -4,59 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "828d8297b5ad4e19",
+        "id": "07d14cd05745b579",
         "type": "tabs",
         "children": [
           {
-            "id": "f0b116c8661032ab",
+            "id": "12b0c9fca4b6df1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/computer system/vocabulary.md",
+                "file": "NPR life kit/5 ways to improve your indoor air quality.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0d6dd24363ea1f28",
+            "id": "b872af2fe1193f96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/computer system/Chapter 1 A Tour of Computer Systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2bd141968e860f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPR life kit/Student loan repayment is resuming. Here's what you need to know.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c30408098b614edc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPR life kit/10 ways to have fun without breaking the bank.md",
+                "file": "Fiber is a dietary superhero. Are you eating enough of it.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPR life kit/10 ways to have fun without breaking the bank.md",
+                "file": "Fiber is a dietary superhero. Are you eating enough of it.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPR life kit/10 ways to have fun without breaking the bank.md",
+                "file": "Fiber is a dietary superhero. Are you eating enough of it.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPR life kit/10 ways to have fun without breaking the bank.md"
+                "file": "Fiber is a dietary superhero. Are you eating enough of it.md"
+              }
+            }
+          },
+          {
+            "id": "559e00d7826f818f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -183,15 +169,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c30408098b614edc",
+  "active": "b872af2fe1193f96",
   "lastOpenFiles": [
+    "NPR life kit/5 ways to improve your indoor air quality.md",
+    "Fiber is a dietary superhero. Are you eating enough of it.md",
+    "What to know about the new COVID boosters.md",
+    "NPR life kit/My parents pay my tuition. Do I have to show them my grades.md",
+    "NPR life kit/Dear Life Kit My group chat is toxic.md",
+    "NPR life kit/Ultra-processed foods are everywhere. Here's how to avoid them.md",
     "NPR life kit/Student loan repayment is resuming. Here's what you need to know.md",
+    "CS/computer system/vocabulary.md",
+    "NPR life kit/Millennial Gen Z It may be time for colorectal cancer screening.md",
+    "CS/computer system/1. Bits, Bytes and Integer.md",
+    "NPR life kit/5 ways to start a financial self-care routine.md",
+    "NPR life kit/Scarfing down your food Here's how to slow down and eat more mindfully.md",
+    "CS/computer system/2.Bits, Bytes and Integer cont.md",
+    "NPR life kit/A guide to forest bathing.md",
+    "Pasted image 20230909000110.png",
+    "NPR life kit/Want to 'feel something' when you look at art Try these 6 tips.md",
+    "NPR life kit/My husband shuts down any time I try to talk about our finances.md",
     "NPR life kit/10 ways to have fun without breaking the bank.md",
-    "CS/computer system/Chapter 1 A Tour of Computer Systems.md",
     "README.md",
     "新建文本文档.txt",
     "CS/basic/计算机教育缺失的一课-概览与shell.md",
-    "Untitled",
-    "CS/computer system/vocabulary.md"
+    "Untitled"
   ]
 }
