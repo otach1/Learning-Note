@@ -18,8 +18,39 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4a8ee8637b607e8a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "CS/NLP/Pasted image 20230921004140.png"
+              }
+            }
+          },
+          {
+            "id": "d88215f970e1b439",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "CS/NLP/Pasted image 20230921004712.png"
+              }
+            }
+          },
+          {
+            "id": "ccba9cf5bd5bf941",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "CS/NLP/Pasted image 20230921004155.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/NLP/NLP.md",
+                "file": "CS/NLP/Pasted image 20230921004155.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/NLP/NLP.md",
+                "file": "CS/NLP/Pasted image 20230921004155.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/NLP/NLP.md"
+                "file": "CS/NLP/Pasted image 20230921004155.png"
               }
             }
           },
@@ -156,14 +187,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15e0b210d53df50a",
+  "active": "d7f799c387706c8c",
   "lastOpenFiles": [
-    "Pasted image 20230921004712.png",
-    "Pasted image 20230921004320.png",
-    "Pasted image 20230921004155.png",
-    "Pasted image 20230921004140.png",
-    "NPR life kit/5 ways to improve your indoor air quality.md",
+    "CS/NLP/Pasted image 20230921004320.png",
+    "CS/NLP/Pasted image 20230921004712.png",
+    "CS/NLP/Pasted image 20230921004140.png",
+    "NPR life kit/5 ways to start a financial self-care routine 1.md",
     "CS/NLP/NLP.md",
+    "Untitled 1.md",
+    "CS/computer system/1. Bits, Bytes and Integer.md",
+    "CS/NLP/Pasted image 20230921004155.png",
+    "NPR life kit/5 ways to improve your indoor air quality.md",
     "CS/NLP/Pasted image 20230921003725.png",
     "NPR life kit/What to know about the new COVID boosters.md",
     "CS/NLP",
@@ -175,7 +209,6 @@
     "NPR life kit/Student loan repayment is resuming. Here's what you need to know.md",
     "CS/computer system/vocabulary.md",
     "NPR life kit/Millennial Gen Z It may be time for colorectal cancer screening.md",
-    "CS/computer system/1. Bits, Bytes and Integer.md",
     "NPR life kit/5 ways to start a financial self-care routine.md",
     "NPR life kit/Scarfing down your food Here's how to slow down and eat more mindfully.md",
     "CS/computer system/2.Bits, Bytes and Integer cont.md",
