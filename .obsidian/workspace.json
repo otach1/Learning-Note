@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "07d14cd05745b579",
+        "id": "e94842e9bc6db5ab",
         "type": "tabs",
         "children": [
           {
-            "id": "12b0c9fca4b6df1d",
+            "id": "15e0b210d53df50a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPR life kit/5 ways to improve your indoor air quality.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b872af2fe1193f96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fiber is a dietary superhero. Are you eating enough of it.md",
+                "file": "CS/NLP/NLP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fiber is a dietary superhero. Are you eating enough of it.md",
+                "file": "CS/NLP/NLP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fiber is a dietary superhero. Are you eating enough of it.md",
+                "file": "CS/NLP/NLP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fiber is a dietary superhero. Are you eating enough of it.md"
+                "file": "CS/NLP/NLP.md"
               }
             }
           },
@@ -169,11 +156,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b872af2fe1193f96",
+  "active": "15e0b210d53df50a",
   "lastOpenFiles": [
+    "Pasted image 20230921004712.png",
+    "Pasted image 20230921004320.png",
+    "Pasted image 20230921004155.png",
+    "Pasted image 20230921004140.png",
     "NPR life kit/5 ways to improve your indoor air quality.md",
-    "Fiber is a dietary superhero. Are you eating enough of it.md",
-    "What to know about the new COVID boosters.md",
+    "CS/NLP/NLP.md",
+    "CS/NLP/Pasted image 20230921003725.png",
+    "NPR life kit/What to know about the new COVID boosters.md",
+    "CS/NLP",
+    "NPR life kit/Fiber is a dietary superhero. Are you eating enough of it.md",
+    "NPR life kit/Do I have to listen to my boss complain.md",
     "NPR life kit/My parents pay my tuition. Do I have to show them my grades.md",
     "NPR life kit/Dear Life Kit My group chat is toxic.md",
     "NPR life kit/Ultra-processed foods are everywhere. Here's how to avoid them.md",
@@ -191,7 +186,6 @@
     "NPR life kit/10 ways to have fun without breaking the bank.md",
     "README.md",
     "新建文本文档.txt",
-    "CS/basic/计算机教育缺失的一课-概览与shell.md",
-    "Untitled"
+    "CS/basic/计算机教育缺失的一课-概览与shell.md"
   ]
 }
